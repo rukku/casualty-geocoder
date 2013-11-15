@@ -1,5 +1,5 @@
 TODOS
 
-Extract names and Geocodes from Geocodes.xls
+x Extract names and Geocodes from Geocodes.xls
 Link to GADM PHL2 shape file.
 Folium maps?
